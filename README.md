@@ -39,7 +39,7 @@ Follow these instructions to install dependencies and run this project on your l
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/MuhtasimMahim/Until-The-EU.git
+   git clone [https://github.com/MuhtasimMahim/Until-The-EU.git](https://github.com/AwsafOnom/UntilTheEu)
    cd Until-The-EU
    ```
 
