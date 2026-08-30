@@ -1,4 +1,4 @@
-# Until The EU — Team Han-da
+# Until The EU 
 
 > **1st Prize Winner (Minister of Education Award)**  
 > **12th e-ICON World Contest (2022)**  
@@ -6,16 +6,15 @@
 
 ---
 
-## Important Links
+## Important Link
 
 - **Android App :** [Download APK](https://drive.google.com/file/d/1NHGVcTUFFpUDQMdbYl8fnd0MNH5Rt1J7/view?usp=sharing)
-- **Contest Information:** [12th e-ICON World Contest 1st Prize Official Announcement](https://e-icon.or.kr/en/2022%eb%85%84-%ec%a0%9c12%ed%9a%8c-%ea%b3%a0%eb%93%b1%eb%b6%80-1%eb%93%b1-%ea%b5%90%ec%9c%a1%eb%b6%80-%ec%9e%a5%ea%b4%80%ec%83%81/)
 
 ---
 
 ## About The Project
 
-**Until The EU** is an educational and mental wellness mobile application built using **Expo and React Native**. Developed by **Team Han-da** for the **12th e-ICON World Contest (2022)**, the app aims to help students recognize, evaluate, and manage their daily stress.
+**Until The EU** is an educational and mental wellness mobile application built using **Expo and React Native**. 
 
 ### Key Features
 - **Stress Diagnostic Quiz:** Interactive questionnaire assessing user stress and emotional well-being.
@@ -82,117 +81,6 @@ This will launch the Metro Bundler and display a terminal QR code along with int
 
 ---
 
-## Presentation
-
-Below are the presentation slides for **Until The EU** (Total 21 slides).
-
-> **PDF Version:** [Download Presentation PDF](Docs/Presentation/Until%20The%20EU%20presentation.pdf)
-
-<div align="center">
-
-### Slide 1
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_01.jpg" alt="Slide 1" width="850" />
-
-### Slide 2
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_02.jpg" alt="Slide 2" width="850" />
-
-### Slide 3
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_03.jpg" alt="Slide 3" width="850" />
-
-### Slide 4
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_04.jpg" alt="Slide 4" width="850" />
-
-### Slide 5
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_05.jpg" alt="Slide 5" width="850" />
-
-### Slide 6
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_06.jpg" alt="Slide 6" width="850" />
-
-### Slide 7
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_07.jpg" alt="Slide 7" width="850" />
-
-### Slide 8
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_08.jpg" alt="Slide 8" width="850" />
-
-### Slide 9
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_09.jpg" alt="Slide 9" width="850" />
-
-### Slide 10
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_10.jpg" alt="Slide 10" width="850" />
-
-### Slide 11
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_11.jpg" alt="Slide 11" width="850" />
-
-### Slide 12
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_12.jpg" alt="Slide 12" width="850" />
-
-### Slide 13
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_13.jpg" alt="Slide 13" width="850" />
-
-### Slide 14
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_14.jpg" alt="Slide 14" width="850" />
-
-### Slide 15
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_15.jpg" alt="Slide 15" width="850" />
-
-### Slide 16
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_16.jpg" alt="Slide 16" width="850" />
-
-### Slide 17
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_17.jpg" alt="Slide 17" width="850" />
-
-### Slide 18
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_18.jpg" alt="Slide 18" width="850" />
-
-### Slide 19
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_19.jpg" alt="Slide 19" width="850" />
-
-### Slide 20
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_20.jpg" alt="Slide 20" width="850" />
-
-### Slide 21
-<img src="Docs/Presentation/Until%20The%20EU%20presentation_Page_21.jpg" alt="Slide 21" width="850" />
-
-</div>
-
----
-
-## Proposal
-
-Below is the official project proposal for **Until The EU** (Total 8 pages).
-
-> **PDF Version:** [Download Proposal PDF](Docs/Proposal/G07_Han-da%20%282%29.pdf)
-
-<div align="center">
-
-### Page 1
-<img src="Docs/Proposal/G07_Han-da%20(2)_Page_1.jpg" alt="Proposal Page 1" width="850" />
-
-### Page 2
-<img src="Docs/Proposal/G07_Han-da%20(2)_Page_2.jpg" alt="Proposal Page 2" width="850" />
-
-### Page 3
-<img src="Docs/Proposal/G07_Han-da%20(2)_Page_3.jpg" alt="Proposal Page 3" width="850" />
-
-### Page 4
-<img src="Docs/Proposal/G07_Han-da%20(2)_Page_4.jpg" alt="Proposal Page 4" width="850" />
-
-### Page 5
-<img src="Docs/Proposal/G07_Han-da%20(2)_Page_5.jpg" alt="Proposal Page 5" width="850" />
-
-### Page 6
-<img src="Docs/Proposal/G07_Han-da%20(2)_Page_6.jpg" alt="Proposal Page 6" width="850" />
-
-### Page 7
-<img src="Docs/Proposal/G07_Han-da%20(2)_Page_7.jpg" alt="Proposal Page 7" width="850" />
-
-### Page 8
-<img src="Docs/Proposal/G07_Han-da%20(2)_Page_8.jpg" alt="Proposal Page 8" width="850" />
-
-</div>
-
----
-
 ## Tech Stack & Dependencies
 
 - **Framework:** [React Native](https://reactnative.dev/) `0.64.3`
@@ -225,10 +113,3 @@ Below is the official project proposal for **Until The EU** (Total 8 pages).
 ```
 
 ---
-
-## Acknowledgements
-
-- **Organizer:** Ministry of Education of the Republic of Korea & Institute of APEC Collaborative Education (IACE)
-- **Contest:** The 12th e-ICON World Contest 2022
-- **Award:** 1st Prize — Minister of Education Award
-- **Team:** Han-da
