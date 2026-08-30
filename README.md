@@ -1,4 +1,4 @@
-# Until The EU *
+# Until The EU 
 
 ---
 
