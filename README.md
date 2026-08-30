@@ -92,8 +92,6 @@ This will launch the Metro Bundler and display a terminal QR code along with int
 
 ```text
 ├── Docs/
-│   ├── Presentation/           # Slides (PDF + Page 1-21 JPGs)
-│   └── Proposal/               # Proposal document (PDF + Page 1-8 JPGs)
 ├── assets/                     # App icons, audio assets, animations, fonts
 ├── components/                 # Reusable React Native UI components
 ├── constants/                  # Colors, quiz questions, stress levels & data
