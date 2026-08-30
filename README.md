@@ -1,8 +1,4 @@
-# Until The EU 
-
-> **1st Prize Winner (Minister of Education Award)**  
-> **12th e-ICON World Contest (2022)**  
-> *2022 e-ICON World Contest 1st prize*
+# Until The EU *
 
 ---
 
