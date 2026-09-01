@@ -36,24 +36,25 @@ Follow these instructions to install dependencies and run this project on your l
 ---
 
 ## Presentation Slides
-<img width="7214" height="4058" alt="Until The EU presentation_Page_20" src="https://github.com/user-attachments/assets/50e3fee6-894d-4e52-92c8-6f362c148bdc" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_19" src="https://github.com/user-attachments/assets/72a71781-3e52-4c8a-aa74-f51fe7e99792" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_17" src="https://github.com/user-attachments/assets/4a85d48c-f611-4725-a305-43add35609f5" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_16" src="https://github.com/user-attachments/assets/748e1474-01e9-4556-b053-70c49c8eb855" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_15" src="https://github.com/user-attachments/assets/37fd5634-6043-4623-9b77-870dd62448b1" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_14" src="https://github.com/user-attachments/assets/793cdf6a-2fc1-42c7-a358-bd1035b475eb" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_13" src="https://github.com/user-attachments/assets/826f95a6-b921-484f-831d-733f816bc318" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_12" src="https://github.com/user-attachments/assets/fcc773fe-4bc0-43a0-9fcc-c361f7d150db" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_11" src="https://github.com/user-attachments/assets/e5f83e89-e6bd-477d-a51e-f5a4bdbd8ecf" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_10" src="https://github.com/user-attachments/assets/f1fc989d-c1d9-420d-bf6b-d37b7837df19" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_09" src="https://github.com/user-attachments/assets/8df038ac-93bc-4445-b91b-8eda88ec1011" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_08" src="https://github.com/user-attachments/assets/3070b60b-78c6-4462-9061-f67af23435d9" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_07" src="https://github.com/user-attachments/assets/95214201-feb1-4731-b5bf-5e498d4c9379" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_06" src="https://github.com/user-attachments/assets/38527772-bb19-437d-88fd-3094147392c5" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_05" src="https://github.com/user-attachments/assets/2c72977a-8e52-4ca4-9542-8f84fa2a6a92" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_04" src="https://github.com/user-attachments/assets/31e39972-1003-4362-847c-0c1496d15565" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_03" src="https://github.com/user-attachments/assets/1a62de4f-d6d8-4e0c-860e-6690b99cb23b" />
-<img width="7214" height="4058" alt="Until The EU presentation_Page_02" src="https://github.com/user-attachments/assets/d99ddc60-bea3-4d83-9acd-d0db095e3477" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_02" src="https://github.com/user-attachments/assets/ba7c0f03-5ba2-43ec-8289-f3051e7aa49d" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_03" src="https://github.com/user-attachments/assets/57c8605d-0a98-47ee-a322-198859fb9792" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_04" src="https://github.com/user-attachments/assets/f5fcdb1a-38da-4f1d-8b22-49f2fb35cea0" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_05" src="https://github.com/user-attachments/assets/fc67f607-c5fd-44b0-b331-626489d28ed3" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_06" src="https://github.com/user-attachments/assets/477dd776-48ea-498c-94e3-61da56eb28e7" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_07" src="https://github.com/user-attachments/assets/307f19cf-ce40-4762-9ad7-18eefd9f4b0a" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_08" src="https://github.com/user-attachments/assets/39585836-1cef-4412-891e-5f0de437e176" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_09" src="https://github.com/user-attachments/assets/7b838ba5-7981-4f5c-8ffd-96f6531b4226" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_10" src="https://github.com/user-attachments/assets/5682c66a-66dd-4432-ac52-03a4f47daa2e" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_11" src="https://github.com/user-attachments/assets/0a04817c-8587-46d5-985f-1d6d490e5e71" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_12" src="https://github.com/user-attachments/assets/71e3414a-b3fe-42a2-8327-5347847933fd" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_13" src="https://github.com/user-attachments/assets/6e7b5965-a90b-40fb-a490-735ab9282630" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_14" src="https://github.com/user-attachments/assets/ec0f5fa8-f79b-4f86-b10e-465d85c58e72" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_15" src="https://github.com/user-attachments/assets/015e76a6-11d5-4495-a701-a72fffd025fa" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_16" src="https://github.com/user-attachments/assets/894ecf05-1740-4299-9343-df9bfc2d22e0" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_17" src="https://github.com/user-attachments/assets/8d330efd-94ca-4e03-ba63-ebb87aed3c1d" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_19" src="https://github.com/user-attachments/assets/1318b070-f367-4768-8cd8-f366114ca3d9" />
+<img width="7214" height="4058" alt="Until The EU presentation_Page_20" src="https://github.com/user-attachments/assets/470b519b-44e3-462c-a1a2-e22595e39469" />
+
 
 
 ### 2. Installation
